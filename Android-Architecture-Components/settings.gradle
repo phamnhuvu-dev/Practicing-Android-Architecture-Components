@@ -1,0 +1,1 @@
+include ':navigation', ':test', ':data_binding'
